@@ -3,7 +3,8 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/tenrok/go-sypexgeo"
+
+	sypexgeo "github.com/tenrok/go-sxgeo"
 )
 
 func main() {

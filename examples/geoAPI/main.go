@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/tenrok/go-sypexgeo"
 	"github.com/night-codes/tokay"
+	sypexgeo "github.com/tenrok/go-sxgeo"
 )
 
 func main() {

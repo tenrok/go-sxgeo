@@ -1,4 +1,4 @@
-# go-sypexgeo
+# go-sxgeo
 
 SypexGeo API bindings for Go (provides access data from [SypexGeo](https://sypexgeo.net/) IP database files). Accepts only SypexGeo 2.2 or above format.
 
@@ -11,12 +11,12 @@ Direct DB links that might became broken over time:
 
 ## Documentation
 
-[Docs on pkg.go.dev](https://pkg.go.dev/github.com/tenrok/go-sypexgeo)
+[Docs on pkg.go.dev](https://pkg.go.dev/github.com/tenrok/go-sxgeo)
 
 ## How To Install
 
 ```bash
-go get github.com/tenrok/go-sypexgeo
+go get github.com/tenrok/go-sxgeo
 ```
 
 ## Getting Started
@@ -24,7 +24,7 @@ go get github.com/tenrok/go-sypexgeo
 ```go
 package main
 
-import "github.com/tenrok/go-sypexgeo"
+import "github.com/tenrok/go-sxgeo"
 
 func main() {
     geo := sypexgeo.New("/path/to/db/SxGeoCity.dat")

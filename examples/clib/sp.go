@@ -52,7 +52,7 @@ static void spxFree(spxInfo s) {
 import "C"
 import (
 	"github.com/tenrok/conv"
-	"github.com/tenrok/go-sypexgeo"
+	sypexgeo "github.com/tenrok/go-sxgeo"
 )
 
 var geo sypexgeo.SxGEO

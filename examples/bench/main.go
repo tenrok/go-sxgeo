@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"github.com/tenrok/go-sypexgeo"
 	"math/rand"
 	"strconv"
 	"time"
+
+	sypexgeo "github.com/tenrok/go-sxgeo"
 )
 
 func main() {
