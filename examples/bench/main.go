@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/night-codes/go-sypexgeo"
+	"github.com/tenrok/go-sypexgeo"
 	"math/rand"
 	"strconv"
 	"time"

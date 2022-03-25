@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/night-codes/go-sypexgeo"
+	"github.com/tenrok/go-sypexgeo"
 	"github.com/night-codes/tokay"
 )
 

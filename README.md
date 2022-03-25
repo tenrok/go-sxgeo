@@ -11,12 +11,12 @@ Direct DB links that might became broken over time:
 
 ## Documentation
 
-[Docs on pkg.go.dev](https://pkg.go.dev/github.com/night-codes/go-sypexgeo)
+[Docs on pkg.go.dev](https://pkg.go.dev/github.com/tenrok/go-sypexgeo)
 
 ## How To Install
 
 ```bash
-go get github.com/night-codes/go-sypexgeo
+go get github.com/tenrok/go-sypexgeo
 ```
 
 ## Getting Started
@@ -24,7 +24,7 @@ go get github.com/night-codes/go-sypexgeo
 ```go
 package main
 
-import "github.com/night-codes/go-sypexgeo"
+import "github.com/tenrok/go-sypexgeo"
 
 func main() {
     geo := sypexgeo.New("/path/to/db/SxGeoCity.dat")

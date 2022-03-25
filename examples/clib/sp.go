@@ -51,8 +51,8 @@ static void spxFree(spxInfo s) {
 */
 import "C"
 import (
-	"github.com/night-codes/conv"
-	"github.com/night-codes/go-sypexgeo"
+	"github.com/tenrok/conv"
+	"github.com/tenrok/go-sypexgeo"
 )
 
 var geo sypexgeo.SxGEO
